@@ -10,12 +10,11 @@
 
   <!-- JYC : ajout pour eviter des problèmes maven de versions java dans un 'runner' :
     "Source option 5 is no longer supported. Use 7 or later"
-
-  <properties>
-     <maven.compiler.source>14</maven.compiler.source>
-     <maven.compiler.target>14</maven.compiler.target>
-  </properties>
   -->
+  <properties>
+     <maven.compiler.source>17</maven.compiler.source>
+     <maven.compiler.target>17</maven.compiler.target>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
