@@ -8,6 +8,6 @@ public class Calc
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Calc! (auto maven in GitHub)" );
+        System.out.println( "Hello Calc! (auto maven in GitHub - 2)" );
     }
 }
