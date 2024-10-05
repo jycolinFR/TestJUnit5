@@ -31,6 +31,9 @@ jobs:
       run: | 
         pwd
         ls
+        cd calc
+        pwd
+        ls
         mvn -B package 
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
