@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 
   <!-- JYC : ajout pour eviter des problèmes maven de versions java dans un 'runner' :
-    "Source option 5 is no longer supported. Use 7 or later"
+    "Source option 5 is no longer supported. Use 7 or later" (idem pour target)
   -->
   <properties>
      <maven.compiler.source>17</maven.compiler.source>
