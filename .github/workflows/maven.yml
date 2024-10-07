@@ -39,6 +39,7 @@ jobs:
         git config --global user.name jycolinFR
         git config --global user.email j
         git add -A
+        git status
         git commit -m "test récupération du .jar (entre autres"
         git push
 
