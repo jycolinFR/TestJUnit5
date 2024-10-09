@@ -30,7 +30,7 @@
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="6.5.0-1025-azure"/>
+    <property name="os.version" value="6.8.0-1014-azure"/>
     <property name="library.jansi.path" value="/usr/share/apache-maven-3.8.8/lib/jansi-native"/>
     <property name="user.home" value="/home/runner"/>
     <property name="user.timezone" value="Etc/UTC"/>

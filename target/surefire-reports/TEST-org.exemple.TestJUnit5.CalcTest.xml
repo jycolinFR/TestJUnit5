@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="org.exemple.TestJUnit5.CalcTest" time="0.001" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="org.exemple.TestJUnit5.CalcTest" time="0.002" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="strip"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -30,7 +30,7 @@
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="6.5.0-1025-azure"/>
+    <property name="os.version" value="6.8.0-1014-azure"/>
     <property name="library.jansi.path" value="/usr/share/apache-maven-3.8.8/lib/jansi-native"/>
     <property name="user.home" value="/home/runner"/>
     <property name="user.timezone" value="Etc/UTC"/>
@@ -56,5 +56,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="java.vendor.version" value="Temurin-17.0.12+7"/>
   </properties>
-  <testcase classname="org.exemple.TestJUnit5.CalcTest" name="testCalc" time="0.001"/>
+  <testcase classname="org.exemple.TestJUnit5.CalcTest" name="testCalc" time="0.002"/>
 </testsuite>
