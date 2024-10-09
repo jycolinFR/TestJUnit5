@@ -40,7 +40,7 @@ jobs:
         git config --global user.email j
         git add -A
         git status
-        git commit -m "test récupération du .jar (entre autres"
+        git commit -m "test récupération du .jar 5 (entre autres)"
         git push
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
